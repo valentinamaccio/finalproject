@@ -1,15 +1,18 @@
 h1{
 	color: #000000;
 	text-align: center;
+	font-size: 60px;
 }
  
  body{
- 	background-color: #d6ce93;
+ 	background-color:#faf3dd;
  	text-align: center;
  }
 
  p{
  	color:#000000;
+ 	font-size: 30px;
+ 	width: 790px;
  }
 
  .greenparagraph{
@@ -17,18 +20,19 @@ h1{
  }
 
 table{
-	border-width: 4px;
-	border-color:#000000 ;
+	border-width:7px ;
+	border-color:#d6ce93 ;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: centre;
+	background-color: #d6ce93;
 }
  
  li a{
  	float: left;
  	display: block;
  	color:#000000 ;
- 	background-color:#efebce ;
+ 	background-color:#d6ce93 ;
  	width: 50px;
  	padding: 15px 15px;
 
@@ -36,9 +40,9 @@ table{
 
 ul{
 	list-style-type: none;
-	background-color: #efebce;
+	background-color:#d6ce93 ;
 	overflow: hidden;
 }
 li a:hover{
-	background-color:#d6ce93 ;
+	background-color: #97a97c;
 }
