@@ -12,7 +12,7 @@ h1{
  p{
  	color:#000000;
  	font-size: 30px;
- 	width: 790px;
+ 	
  }
 
  .greenparagraph{
@@ -46,3 +46,8 @@ ul{
 li a:hover{
 	background-color: #97a97c;
 }
+h3{
+	font-size: 30px;
+}
+
+.class
